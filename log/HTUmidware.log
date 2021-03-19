@@ -1,0 +1,3 @@
+2021-03-19 13:36:41 [cn.com.jr.HTUmidware.serverofdev.supagreementserver.TCP.TCPServiceOfDev]-[INFO] [main] (TCPServiceOfDev.java:77) ->TCPServiceOfDev long connection started success port:1919 
+2021-03-19 13:36:41 [cn.com.jr.HTUmidware.serverofdev.supagreementserver.UDP.UDPservice]-[INFO] [main] (UDPservice.java:55) ->UDPservice long connection started success port:1919 
+2021-03-19 13:36:41 [cn.com.jr.HTUmidware.serverofweb.ServerOfWeb]-[INFO] [main] (ServerOfWeb.java:60) -> ServerOfWeb socket server started success port:1818 
